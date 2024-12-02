@@ -8,4 +8,4 @@ xhofe/alist:latest
 #--platform=linux/arm64 nacos/nacos-server:v2.4.3
 #--platform=linux/arm64 redis:7.4.1
 #--platform=linux/arm64 nginx:1.27-alpine
-#--minio/minio:latest
+--platform=linux/arm64 minio/minio:latest
