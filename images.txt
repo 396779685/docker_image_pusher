@@ -9,4 +9,5 @@ xhofe/alist:latest
 #--platform=linux/arm64 nginx:1.27-alpine
 #--platform=linux/arm64 minio/minio:latest
 #--platform=linux/arm64 mysql:8.4.0
---platform=linux/amd64 nacos/nacos-server:latest
+#--platform=linux/amd64 nacos/nacos-server:latest
+--platform=linux/amd64 dmengine/dmdbms:latest
